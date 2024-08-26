@@ -1,0 +1,94 @@
+/* MatchSummary.css */
+
+.match-summary-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0; /* Light grey background for contrast */
+  padding: 20px;
+}
+
+.match-summary-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  max-width: 1200px;
+  gap: 20px;
+}
+
+.form-summary-wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.form-container,
+.summary-display {
+  background: #ffffff; /* White background for both form and summary */
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.941); /* Soft shadow for a professional look */
+  padding: 20px;
+  width: 100%;
+  max-width: 500px; /* Limit width for better readability */
+}
+
+h2, h3 {
+  color: #333; /* Dark grey text for headings */
+  margin-bottom: 20px;
+}
+
+.summary-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group label {
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #333; /* Dark grey text for labels */
+}
+
+.form-group input {
+  padding: 12px;
+  border: 1px solid #ccc; /* Light grey border for input fields */
+  border-radius: 8px;
+  font-size: 16px;
+  color: #333; /* Dark grey text inside input fields */
+}
+
+button {
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  background-color: #007bff; /* Blue background for button */
+  color: #ffffff; /* White text for button */
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker blue for hover state */
+  transform: scale(1.05);
+}
+
+.summary-display {
+  flex: 1; /* Takes up remaining space */
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  margin-bottom: 10px;
+  color: #ffffff; /* Dark grey text for loading indicator */
+}

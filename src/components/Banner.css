@@ -1,0 +1,89 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.banner {
+  position: relative;
+  width: 100%;
+  height: 100vh; /* Full viewport height */
+  background: url('home3.jpg') no-repeat center center;
+  background-size: cover; /* Cover the entire container */
+  filter: brightness(70%); /* Lighten the background image */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden; /* Hide overflow */
+}
+
+.banner-content {
+  text-align: center;
+  color: #fff;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.999); /* Darker semi-transparent background for better text readability */
+  border-radius: 10px; /* Rounded corners for the box */
+  animation: fadeInUp 2s ease-out; /* Apply fade-in animation */
+}
+
+.banner h1 {
+  font-size: 3rem; /* Adjust heading size */
+  color: black;
+  margin-bottom: 20px;
+  font-weight: 700; /* Make the text bold */
+  animation: fadeIn 2s ease-out; /* Apply fade-in animation */
+}
+
+.banner p {
+  font-size: 1.5rem; /* Adjust paragraph size */
+  color: black;
+  margin-bottom: 30px;
+  font-weight: 300; /* Lighten text weight */
+  animation: fadeIn 2s ease-out 0.5s; /* Apply fade-in animation with delay */
+}
+
+.continue-button {
+  display: inline-block;
+  padding: 12px 25px;
+  font-size: 1.2rem;
+  color: #fff;
+  background-color: #ff6f61;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  animation: fadeIn 2s ease-out 1s; /* Apply fade-in animation with delay */
+}
+
+.continue-button:hover {
+  background-color: #e55b50;
+  transform: translateY(-3px); /* Slight lift effect on hover */
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
