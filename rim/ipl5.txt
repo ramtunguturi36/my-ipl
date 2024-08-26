@@ -1,0 +1,243 @@
+
+### 2008:
+1. *Qualifier 1*: Rajasthan Royals vs Delhi Daredevils
+      - *Result*: Rajasthan Royals won by 105 runs.
+
+2. *Eliminator*: Kings XI Punjab vs Chennai Super Kings
+   - *Result*: Kings XI Punjab won by 6 wickets.
+
+3. *Qualifier 2*: Delhi Daredevils vs Kings XI Punjab
+      - *Result*: Delhi Daredevils won by 4 wickets.
+
+4. *Final*: Rajasthan Royals vs Chennai Super Kings
+      Winner: Rajasthan Royals won by 3 wickets.
+      Runner: Chennai Super Kings
+
+### 2009:
+
+1. *Semi-final 1*: Delhi Daredevils vs Deccan Chargers
+   - *Result*: Delhi Daredevils won.
+
+2. *Semi-final 2*: Chennai Super Kings vs Royal Challengers Bangalore
+   - *Result*: Royal Challengers Bangalore won.
+
+3. *Final*: Deccan Chargers vs Royal Challengers Bangalore
+   - *Result*: Deccan Chargers won.
+     Runner: Royal Challengers Bangalore
+
+### 2010:
+1. *Qualifier 1*: Mumbai Indians vs Chennai Super Kings
+   - *Result*: Mumbai Indians won.
+
+2. *Eliminator*: Royal Challengers Bangalore vs Deccan Chargers
+   - *Result*: Royal Challengers Bangalore won.
+
+3. *Qualifier 2*: Chennai Super Kings vs Royal Challengers Bangalore
+   - *Result*: Chennai Super Kings won.
+
+4. *Final*: Chennai Super Kings vs Mumbai Indians
+   - *Result*: Chennai Super Kings won.
+      Runner: Mumbai Indians
+
+### 2011:
+1. *Qualifier 1*: Chennai Super Kings vs Royal Challengers Bangalore
+   - *Result*: Chennai Super Kings won.
+
+2. *Eliminator*: Mumbai Indians vs Kolkata Knight Riders
+   - *Result*: Mumbai Indians won.
+
+3. *Qualifier 2*: Royal Challengers Bangalore vs Mumbai Indians
+   - *Result*: Royal Challengers Bangalore won.
+
+4. *Final*: Chennai Super Kings vs Royal Challengers Bangalore
+   - *Result*: Chennai Super Kings won.
+    Runner: Royal Challengers Bangalore
+
+### 2012:
+1. *Qualifier 1*: Delhi Daredevils vs Kolkata Knight Riders
+   - *Result*: Kolkata Knight Riders won.
+
+2. *Eliminator*: Chennai Super Kings vs Mumbai Indians
+   - *Result*: Chennai Super Kings won.
+
+3. *Qualifier 2*: Kolkata Knight Riders vs Delhi Daredevils
+   - *Result*: Kolkata Knight Riders won.
+
+4. *Final*: Chennai Super Kings vs Kolkata Knight Riders
+   - *Result*: Kolkata Knight Riders won.
+     Runner :Chennai Super Kings
+
+### 2013:
+1. *Qualifier 1*: Mumbai Indians vs Chennai Super Kings
+   - *Result*: Mumbai Indians won.
+
+2. *Eliminator*: Rajasthan Royals vs Sunrisers Hyderabad
+   - *Result*: Rajasthan Royals won.
+
+3. *Qualifier 2*: Chennai Super Kings vs Mumbai Indians
+   - *Result*: Mumbai Indians won.
+
+4. *Final*: Mumbai Indians vs Chennai Super Kings
+   - *Result*: Mumbai Indians won.
+     Runner: Chennai Super Kings
+
+### 2014:
+1. *Qualifier 1*: Kings XI Punjab vs Kolkata Knight Riders
+   - *Result*: Kolkata Knight Riders won.
+
+2. *Eliminator*: Chennai Super Kings vs Mumbai Indians
+   - *Result*: Chennai Super Kings won.
+
+3. *Qualifier 2*: Kolkata Knight Riders vs Kings XI Punjab
+   - *Result*: Kolkata Knight Riders won.
+
+4. *Final*: Kolkata Knight Riders vs Kings XI Punjab
+   - *Result*: Kolkata Knight Riders won.
+     Runner: Kings XI Punjab
+
+### IPL 2015:
+1. *Qualifier 1*: Chennai Super Kings vs Mumbai Indians
+   - *Result*: Mumbai Indians won.
+
+2. *Eliminator*: Royal Challengers Bangalore vs Rajasthan Royals
+   - *Result*: Royal Challengers Bangalore won.
+
+3. *Qualifier 2*: Chennai Super Kings vs Royal Challengers Bangalore
+   - *Result*: Chennai Super Kings won.
+
+4. *Final*: Mumbai Indians vs Chennai Super Kings
+   - *Result*: Mumbai Indians won.
+    Runner: Chennai Super Kings
+
+### 2016:
+1. *Qualifier 1*: Gujarat Lions vs Royal Challengers Bangalore
+   - *Result*: Royal Challengers Bangalore won.
+
+2. *Eliminator*: Sunrisers Hyderabad vs Kolkata Knight Riders
+   - *Result*: Sunrisers Hyderabad won.
+
+3. *Qualifier 2*: Gujarat Lions vs Sunrisers Hyderabad
+   - *Result*: Sunrisers Hyderabad won.
+
+4. *Final*: Sunrisers Hyderabad vs Royal Challengers Bangalore
+   - *Result*: Sunrisers Hyderabad won.
+    Runner:  Royal Challengers Bangalore
+
+### 2017:
+1. *Qualifier 1*: Mumbai Indians vs Rising Pune Supergiant
+   - *Result*: Rising Pune Supergiant won.
+
+2. *Eliminator*: Sunrisers Hyderabad vs Kolkata Knight Riders
+   - *Result*: Kolkata Knight Riders won.
+
+3. *Qualifier 2*: Mumbai Indians vs Kolkata Knight Riders
+   - *Result*: Mumbai Indians won.
+
+4. *Final*: Mumbai Indians vs Rising Pune Supergiant
+   - *Result*: Mumbai Indians won.
+   Runner : Rising Pune Supergiant
+
+### 2018:
+1. *Qualifier 1*: Sunrisers Hyderabad vs Chennai Super Kings
+   - *Result*: Chennai Super Kings won.
+
+2. *Eliminator*: Kolkata Knight Riders vs Rajasthan Royals
+   - *Result*: Kolkata Knight Riders won.
+
+3. *Qualifier 2*: Sunrisers Hyderabad vs Kolkata Knight Riders
+   - *Result*: Sunrisers Hyderabad won.
+
+4. *Final*: Chennai Super Kings vs Sunrisers Hyderabad
+   - *Result*: Chennai Super Kings won.
+      Runner: Sunrisers Hyderabad
+
+### 2019:
+1. *Qualifier 1*: Mumbai Indians vs Chennai Super Kings
+   - *Result*: Mumbai Indians won.
+
+2. *Eliminator*: Delhi Capitals vs Sunrisers Hyderabad
+   - *Result*: Delhi Capitals won.
+
+3. *Qualifier 2*: Chennai Super Kings vs Delhi Capitals
+   - *Result*: Chennai Super Kings won.
+
+4. *Final*: Mumbai Indians vs Chennai Super Kings
+   - *Result*: Mumbai Indians won.
+    Runner : Chennai Super Kings
+
+### 2020:
+1. *Qualifier 1*: Mumbai Indians vs Delhi Capitals
+   - *Result*: Mumbai Indians won.
+
+2. *Eliminator*: Sunrisers Hyderabad vs Royal Challengers Bangalore
+   - *Result*: Sunrisers Hyderabad won.
+
+3. *Qualifier 2*: Delhi Capitals vs Sunrisers Hyderabad
+   - *Result*: Delhi Capitals won.
+
+4. *Final*: Mumbai Indians vs Delhi Capitals
+   - *Result*: Mumbai Indians won.
+    Runner :  Delhi Capitals
+
+### 2021:
+1. *Qualifier 1*: Delhi Capitals vs Chennai Super Kings
+   - *Result*: Delhi Capitals won.
+
+2. *Eliminator*: Royal Challengers Bangalore vs Kolkata Knight Riders
+   - *Result*: Kolkata Knight Riders won.
+
+3. *Qualifier 2*: Chennai Super Kings vs Kolkata Knight Riders
+   - *Result*: Chennai Super Kings won.
+
+4. *Final*: Chennai Super Kings vs Kolkata Knight Riders
+   - *Result*: Chennai Super Kings won.
+    Runner : Kolkata Knight Riders
+
+### 2022:
+
+1. *Qualifier 1*: Rajasthan Royals vs Gujarat Titans
+   - *Result*: Gujarat Titans won.
+
+2. *Eliminator*: Lucknow Super Giants vs Royal Challengers Bangalore
+   - *Result*:   Royal Challengers Bangalore won.
+
+3. *Qualifier 2*: Royal Challengers Bangalore vs Rajasthan Royals
+   - *Result*: Rajasthan Royals won.
+
+4. *Final*: Rajasthan Royals vs Gujarat Titans
+   - *Result*: Rajasthan Royals won.
+    Runner : Gujarat Titans
+
+### 2023:
+
+1. *Qualifier 1*: Chennai Super Kings vs Gujarat Titans
+   - *Result*: Chennai Super Kings won.
+
+2. *Eliminator*: Mumbai Indians vs  Lucknow Super Giants
+  - *Result*:   Mumbai Indians won.
+
+3. *Qualifier 2*: Gujarat Titans vs Mumbai Indians
+   - *Result*: Rajasthan Royals won.
+
+4. *Final*:Mumbai Indians vs Gujarat Titans
+   - *Result*: Gujarat Titans won.
+    Runner : Mumbai Indians
+
+### 2024:
+
+1. *Qualifier 1*: Kolkata Knight Riders vs Sunrisers Hyderabad
+   - *Result*: Kolkata Knight Riders won.
+
+2. *Eliminator*: Rajasthan Royals vs Royal Challengers Bengaluru
+  - *Result*:   Rajasthan Royals won.
+
+3. *Qualifier 2*: Rajasthan Royals   vs Sunrisers Hyderabad
+   - *Result*: Sunrisers Hyderabad won.
+
+4. *Final*:Kolkata Knight Riders vs Sunrisers Hyderabad
+   - *Result*: Kolkata Knight Riders won.
+   Runner : Sunrisers Hyderabad
+
+
+
+

@@ -1,0 +1,302 @@
+In the Year 2008, the captain of the team Chennai Super Kings(CSK) is MS Dhoni.
+
+In the Year 2008, the captain of the team Delhi Daredevils(DD) is Virender Sehwag.
+
+In the Year 2008, the captain of the team Kings XI Punjab(KXPB) is Yuvraj Singh.
+
+In the Year 2008, the captain of the team Kolkata Knight Riders(KKR) is Sourav Ganguly.
+
+In the Year 2008, the captain of the team Mumbai Indians(MI) is Sachin Tendulkar.
+
+In the Year 2008, the captain of the team Rajasthan Royals(RR) is Shane Warne.
+
+In the Year 2008, the captain of the team Royal Challengers Bangalore(RCB) is Rahul Dravid.
+
+In the Year 2008, the captain of the team Deccan Chargers(DC) is VVS Laxman.
+
+In the Year 2009, the captain of the team Chennai Super Kings(CSK) is MS Dhoni.
+
+In the Year 2009, the captain of the team Delhi Daredevils(DD) is Gautam Gambhir.
+
+In the Year 2009, the captain of the team Kings XI Punjab(KXPB) is Yuvraj Singh.
+
+In the Year 2009, the captain of the team Kolkata Knight Riders(KKR) is Brendon McCullum.
+
+In the Year 2009, the captain of the team Mumbai Indians(MI) is Sachin Tendulkar.
+
+In the Year 2009, the captain of the team Rajasthan Royals(RR) is Shane Warne.
+
+In the Year 2009, the captain of the team Royal Challengers Bangalore(RCB) is Anil Kumble.
+
+In the Year 2009, the captain of the team Deccan Chargers(DC) is Adam Gilchrist.
+
+In the Year 2010, the captain of the team Chennai Super Kings(CSK) is MS Dhoni.
+
+In the Year 2010, the captain of the team Delhi Daredevils(DD) is Gautam Gambhir.
+
+In the Year 2010, the captain of the team Kings XI Punjab(KXPB) is Kumar Sangakkara.
+
+In the Year 2010, the captain of the team Kolkata Knight Riders(KKR) is Sourav Ganguly.
+
+In the Year 2010, the captain of the team Mumbai Indians(MI) is Sachin Tendulkar.
+
+In the Year 2010, the captain of the team Rajasthan Royals(RR) is Shane Warne.
+
+In the Year 2010, the captain of the team Royal Challengers Bangalore(RCB) is Anil Kumble.
+
+In the Year 2010, the captain of the team Deccan Chargers(DC) is Adam Gilchrist.
+
+In the Year 2010, the captain of the team Pune Warriors India(PWI) is Yuvraj Singh.
+
+In the Year 2011, the captain of the team Chennai Super Kings(CSK) is MS Dhoni.
+
+In the Year 2011, the captain of the team Delhi Daredevils(DD) is Virender Sehwag.
+
+In the Year 2011, the captain of the team Kings XI Punjab(KXPB) is Adam Gilchrist.
+
+In the Year 2011, the captain of the team Kolkata Knight Riders(KKR) is Gautam Gambhir.
+
+In the Year 2011, the captain of the team Mumbai Indians(MI) is Sachin Tendulkar.
+
+In the Year 2011, the captain of the team Rajasthan Royals(RR) is Shane Warne.
+
+In the Year 2011, the captain of the team Royal Challengers Bangalore(RCB) is Daniel Vettori.
+
+In the Year 2011, the captain of the team Deccan Chargers(DC) is Kumar Sangakkara.
+
+In the Year 2011, the captain of the team Kochi Tuskers Kerala(KTK) is Mahela Jayawardene.
+
+In the Year 2011, the captain of the team Pune Warriors India(PWI) is Yuvraj Singh.
+
+In the Year 2012, the captain of the team Chennai Super Kings(CSK) is MS Dhoni.
+
+In the Year 2012, the captain of the team Delhi Daredevils(DD) is Virender Sehwag, Mahela Jayawardene.
+
+In the Year 2012, the captain of the team Kings XI Punjab(KXPB) is Adam Gilchrist, David Hussey.
+
+In the Year 2012, the captain of the team Kolkata Knight Riders(KKR) is Gautam Gambhir.
+
+In the Year 2012, the captain of the team Mumbai Indians(MI) is Harbhajan Singh, Sachin Tendulkar, Rohit Sharma.
+
+In the Year 2012, the captain of the team Rajasthan Royals(RR) is Rahul Dravid.
+
+In the Year 2012, the captain of the team Royal Challengers Bangalore(RCB) is Daniel Vettori, Virat Kohli.
+
+In the Year 2012, the captain of the team Deccan Chargers(DC) is Kumar Sangakkara, Cameron White.
+
+In the Year 2012, the captain of the team Pune Warriors India(PWI) is Sourav Ganguly, Steven Smith.
+
+In the Year 2013, the captain of the team Chennai Super Kings(CSK) is MS Dhoni.
+
+In the Year 2013, the captain of the team Delhi Daredevils(DD) is Mahela Jayawardene.
+
+In the Year 2013, the captain of the team Kings XI Punjab(KXPB) is Adam Gilchrist, David Hussey.
+
+In the Year 2013, the captain of the team Kolkata Knight Riders(KKR) is Gautam Gambhir.
+
+In the Year 2013, the captain of the team Mumbai Indians(MI) is Ricky Ponting, Rohit Sharma.
+
+In the Year 2013, the captain of the team Rajasthan Royals(RR) is Rahul Dravid.
+
+In the Year 2013, the captain of the team Royal Challengers Bangalore(RCB) is Virat Kohli.
+
+In the Year 2013, the captain of the team Sunrisers Hyderabad(SRH) is Kumar Sangakkara, Cameron White.
+
+In the Year 2013, the captain of the team Pune Warriors India(PWI) is Angelo Mathews, Aaron Finch.
+
+In the Year 2014, the captain of the team Chennai Super Kings(CSK) is MS Dhoni.
+
+In the Year 2014, the captain of the team Delhi Daredevils(DD) is Kevin Pietersen, Dinesh Karthik.
+
+In the Year 2014, the captain of the team Kings XI Punjab(KXPB) is George Bailey.
+
+In the Year 2014, the captain of the team Kolkata Knight Riders(KKR) is Gautam Gambhir.
+
+In the Year 2014, the captain of the team Mumbai Indians(MI) is Rohit Sharma.
+
+In the Year 2014, the captain of the team Rajasthan Royals(RR) is Shane Watson, Steve Smith.
+
+In the Year 2014, the captain of the team Royal Challengers Bangalore(RCB) is Virat Kohli.
+
+In the Year 2014, the captain of the team Sunrisers Hyderabad(SRH) is Shikhar Dhawan, Darren Sammy.
+
+In the Year 2015, the captain of the team Chennai Super Kings(CSK) is MS Dhoni.
+
+In the Year 2015, the captain of the team Delhi Daredevils(DD) is JP Duminy.
+
+In the Year 2015, the captain of the team Kings XI Punjab(KXPB) is George Bailey, David Miller.
+
+In the Year 2015, the captain of the team Kolkata Knight Riders(KKR) is Gautam Gambhir.
+
+In the Year 2015, the captain of the team Mumbai Indians(MI) is Rohit Sharma.
+
+In the Year 2015, the captain of the team Rajasthan Royals(RR) is Shane Watson, Steve Smith.
+
+In the Year 2015, the captain of the team Royal Challengers Bangalore(RCB) is Virat Kohli.
+
+In the Year 2015, the captain of the team Sunrisers Hyderabad(SRH) is David Warner.
+
+In the Year 2016, the captain of the team Chennai Super Kings(CSK) is MS Dhoni.
+
+In the Year 2016, the captain of the team Delhi Daredevils(DD) is Zaheer Khan.
+
+In the Year 2016, the captain of the team Kings XI Punjab(KXPB) is David Miller, Murali Vijay.
+
+In the Year 2016, the captain of the team Kolkata Knight Riders(KKR) is Gautam Gambhir.
+
+In the Year 2016, the captain of the team Mumbai Indians(MI) is Rohit Sharma.
+
+In the Year 2016, the captain of the team Rajasthan Royals(RR) is Steven Smith.
+
+In the Year 2016, the captain of the team Royal Challengers Bangalore(RCB) is Virat Kohli.
+
+In the Year 2016, the captain of the team Sunrisers Hyderabad(SRH) is David Warner.
+
+In the Year 2016, the captain of the team Gujarat Lions(GL) is Suresh Raina.
+
+In the Year 2017, the captain of the team Chennai Super Kings(CSK) is MS Dhoni.
+
+In the Year 2017, the captain of the team Delhi Daredevils(DD) is Zaheer Khan.
+
+In the Year 2017, the captain of the team Kings XI Punjab(KXPB) is Glenn Maxwell.
+
+In the Year 2017, the captain of the team Kolkata Knight Riders(KKR) is Gautam Gambhir.
+
+In the Year 2017, the captain of the team Mumbai Indians(MI) is Rohit Sharma.
+
+In the Year 2017, the captain of the team Rajasthan Royals(RR) is Steven Smith.
+
+In the Year 2017, the captain of the team Royal Challengers Bangalore(RCB) is Virat Kohli.
+
+In the Year 2017, the captain of the team Sunrisers Hyderabad(SRH) is David Warner.
+
+In the Year 2017, the captain of the team Gujarat Lions(GL) is Suresh Raina.
+
+In the Year 2018, the captain of the team Chennai Super Kings(CSK) is MS Dhoni.
+
+In the Year 2018, the captain of the team Delhi Daredevils(DD) is Gautam Gambhir, Shreyas Iyer.
+
+In the Year 2018, the captain of the team Kings XI Punjab(KXPB) is Ravichandran Ashwin.
+
+In the Year 2018, the captain of the team Kolkata Knight Riders(KKR) is Dinesh Karthik.
+
+In the Year 2018, the captain of the team Mumbai Indians(MI) is Rohit Sharma.
+
+In the Year 2018, the captain of the team Rajasthan Royals(RR) is Ajinkya Rahane.
+
+In the Year 2018, the captain of the team Royal Challengers Bangalore(RCB) is Virat Kohli.
+
+In the Year 2018, the captain of the team Sunrisers Hyderabad(SRH) is Kane Williamson.
+
+In the Year 2019, the captain of the team Chennai Super Kings(CSK) is MS Dhoni.
+
+In the Year 2019, the captain of the team Delhi Capitals(DC) is Shreyas Iyer.
+
+In the Year 2019, the captain of the team Kings XI Punjab(KXPB) is Ravichandran Ashwin.
+
+In the Year 2019, the captain of the team Kolkata Knight Riders(KKR) is Dinesh Karthik.
+
+In the Year 2019, the captain of the team Mumbai Indians(MI) is Rohit Sharma.
+
+In the Year 2019, the captain of the team Rajasthan Royals(RR) is Ajinkya Rahane, Steven Smith.
+
+In the Year 2019, the captain of the team Royal Challengers Bangalore(RCB) is Virat Kohli.
+
+In the Year 2019, the captain of the team Sunrisers Hyderabad(SRH) is Kane Williamson.
+
+In the Year 2020, the captain of the team Chennai Super Kings(CSK) is MS Dhoni.
+
+In the Year 2020, the captain of the team Delhi Capitals(DC) is Shreyas Iyer.
+
+In the Year 2020, the captain of the team Kings XI Punjab(KXPB) is KL Rahul.
+
+In the Year 2020, the captain of the team Kolkata Knight Riders(KKR) is Dinesh Karthik, Eoin Morgan.
+
+In the Year 2020, the captain of the team Mumbai Indians(MI) is Rohit Sharma.
+
+In the Year 2020, the captain of the team Rajasthan Royals(RR) is Steve Smith.
+
+In the Year 2020, the captain of the team Royal Challengers Bangalore(RCB) is Virat Kohli.
+
+In the Year 2020, the captain of the team Sunrisers Hyderabad(SRH) is David Warner.
+
+In the Year 2021, the captain of the team Chennai Super Kings(CSK) is MS Dhoni.
+
+In the Year 2021, the captain of the team Delhi Capitals(DC) is Rishabh Pant.
+
+In the Year 2021, the captain of the team Punjab Kings(PBKS) is KL Rahul.
+
+In the Year 2021, the captain of the team Kolkata Knight Riders(KKR) is Eoin Morgan.
+
+In the Year 2021, the captain of the team Mumbai Indians(MI) is Rohit Sharma.
+
+In the Year 2021, the captain of the team Rajasthan Royals(RR) is Sanju Samson.
+
+In the Year 2021, the captain of the team Royal Challengers Bangalore(RCB) is Virat Kohli.
+
+In the Year 2021, the captain of the team Sunrisers Hyderabad(SRH) is David Warner
+
+In the Year 2022, the captain of the team Chennai Super Kings(CSK) is MS Dhoni
+
+In the Year 2022, the captain of the team Delhi Capitals(DC) is Rishabh Pant.
+
+In the Year 2022, the captain of the team Punjab Kings(PBKS) is Mayank Agarwal.
+
+In the Year 2022, the captain of the team Kolkata Knight Riders(KKR) is Shreyas Iyer.
+
+In the Year 2022, the captain of the team Mumbai Indians(MI) is Rohit Sharma.
+
+In the Year 2022, the captain of the team Rajasthan Royals(RR) is Sanju Samson.
+
+In the Year 2022, the captain of the team Royal Challengers Bangalore(RCB) is Faf du Plessis.
+
+In the Year 2022, the captain of the team Sunrisers Hyderabad(SRH) is Kane Williamson.
+
+In the Year 2022, the captain of the team Lucknow Super Giants(LSG) is KL Rahul.
+
+In the Year 2022, the captain of the team Gujarat Titans(GT) is Hardik Pandya.
+
+In the Year 2023, the captain of the team Chennai Super Kings(CSK) is MS Dhoni.
+
+In the Year 2023, the captain of the team Delhi Capitals(DC) is David Warner.
+
+In the Year 2023, the captain of the team Punjab Kings(PBKS) is Shikhar Dhawan.
+
+In the Year 2023, the captain of the team Kolkata Knight Riders(KKR) is Nitish Rana.
+
+In the Year 2023, the captain of the team Mumbai Indians(MI) is Rohit Sharma.
+
+In the Year 2023, the captain of the team Rajasthan Royals(RR) is Sanju Samson.
+
+In the Year 2023, the captain of the team Royal Challengers Bangalore(RCB) is Faf du Plessis.
+
+In the Year 2023, the captain of the team Sunrisers Hyderabad(SRH) is Aiden Markram.
+
+In the Year 2023, the captain of the team Lucknow Super Giants(LSG) is KL Rahul.
+
+In the Year 2023, the captain of the team Gujarat Titans(GT) is Hardik Pandya.
+
+In the Year 2024, the captain of the team Chennai Super Kings(CSK) is Ruturaj Gaikwad.
+
+In the Year 2024, the captain of the team Delhi Capitals(DC) is Rishabh pant.
+
+In the Year 2024, the captain of the team Punjab Kings(PBKS) is Shikhar Dhawan.
+
+In the Year 2024, the captain of the team Kolkata Knight Riders(KKR) is Shreyas Iyer.
+
+In the Year 2024, the captain of the team Mumbai Indians(MI) is Hardik Pandya.
+
+In the Year 2024, the captain of the team Rajasthan Royals(RR) is Sanju Samson.
+
+In the Year 2024, the captain of the team Royal Challengers Bangalore(RCB) is Faf du Plessis.
+
+In the Year 2024, the captain of the team Sunrisers Hyderabad(SRH) is Pat Cummins.
+
+In the Year 2024, the captain of the team Lucknow Super Giants(LSG) is KL Rahul.
+
+In the Year 2024, the captain of the team Gujarat Titans(GT) is Shubhman Gill.
+
+
+
+
+
