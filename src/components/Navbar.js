@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import './Navbar.css';
-import logo from './ipllogo.jpeg'; // Ensure this path is correct relative to Navbar.js
+import logo from './ipllogo.jpeg'; // Ensure this path is correct
 
 const Navbar = () => {
-  const navigate = useNavigate(); // Use the navigate hook directly
+  const navigate = useNavigate();
 
   const handleLogoClick = (event) => {
     event.preventDefault();
@@ -15,40 +15,21 @@ const Navbar = () => {
   };
 
   return (
-    <div className="container">
-      <nav className="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
-        <a href="/" className="navbar-brand" onClick={handleLogoClick}>
-          <img src={logo} alt="Logo" className="logo" />
+    <div className="navbar-container">
+      <div className="navbar-logo">
+        <a href="/" onClick={handleLogoClick}>
+          <img src={logo} alt="Logo" />
         </a>
-        <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span className="navbar-toggler-icon"></span>
-        </button>
-        <div className="collapse navbar-collapse" id="navbarNav">
-          <ul className="navbar-nav">
-            <li className="nav-item active">
-              <Link to="/home" className="nav-link">Home</Link>
-            </li>
-            <li className="nav-item">
-              <Link to="/MatchSummary" className="nav-link">MatchSummary</Link>
-            </li>
-            <li className="nav-item">
-              <Link to="/PlayerReports" className="nav-link">PlayerReport</Link>
-            </li>
-            <li className="nav-item">
-              <Link to="/TeamReports" className="nav-link">TeamReport</Link>
-            </li>
-            <li className="nav-item">
-              <Link to="/MatchHighlights" className="nav-link">MatchHighlights</Link>
-            </li>
-            <li className="nav-item">
-              <Link to="/Chatbot" className="nav-link">ChatBot</Link>
-            </li>
-            <li className="nav-item">
-              <Link to="/ContactUs" className="nav-link">ContactUs</Link>
-            </li>
-          </ul>
-        </div>
-      </nav>
+      </div>
+      <div className="navbar-links">
+        <Link to="/home">Home</Link>
+        <Link to="/MatchSummary">MatchSummary</Link>
+        <Link to="/PlayerReports">PlayerReport</Link>
+        <Link to="/TeamReports">TeamReport</Link>
+        <Link to="/MatchHighlights">MatchHighlights</Link>
+        <Link to="/Chatbot">ChatBot</Link>
+        <Link to="/ContactUs">ContactUs</Link>
+      </div>
     </div>
   );
 }
